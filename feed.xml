@@ -3,12 +3,54 @@
     <title>darius.dk/blog</title>
     <link href="https://dariusdotdk.github.io/blog/feed.xml" rel="self" />
     <link href="https://dariusdotdk.github.io/blog" />
-    <updated>2024-02-09T01:34:07+01:00</updated>
+    <updated>2024-02-09T02:22:32+01:00</updated>
     <author>
         <name>Darius Koupayeh</name>
     </author>
     <id>https://dariusdotdk.github.io/blog</id>
 
+    <entry>
+        <title>jkhkjh</title>
+        <author>
+            <name>Darius Koupayeh</name>
+        </author>
+        <link href="https://dariusdotdk.github.io/blog/jkhkjh.html"/>
+        <id>https://dariusdotdk.github.io/blog/jkhkjh.html</id>
+            <category term="Linguistics"/>
+
+        <updated>2024-02-09T02:22:32+01:00</updated>
+            <summary>
+                <![CDATA[
+                    jkhkjh
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>jkhkjh</p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>jggj</title>
+        <author>
+            <name>Darius Koupayeh</name>
+        </author>
+        <link href="https://dariusdotdk.github.io/blog/jggj.html"/>
+        <id>https://dariusdotdk.github.io/blog/jggj.html</id>
+            <category term="Philosophy"/>
+
+        <updated>2024-02-09T02:22:18+01:00</updated>
+            <summary>
+                <![CDATA[
+                    jkjkhk
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>jkjkhk</p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>sdfsdf</title>
         <author>
@@ -16,8 +58,9 @@
         </author>
         <link href="https://dariusdotdk.github.io/blog/sdfsdf.html"/>
         <id>https://dariusdotdk.github.io/blog/sdfsdf.html</id>
+            <category term="History"/>
 
-        <updated>2024-02-09T01:34:07+01:00</updated>
+        <updated>2024-02-09T02:21:34+01:00</updated>
             <summary>
                 <![CDATA[
                     sfsdfsdf

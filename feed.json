@@ -5,11 +5,40 @@
     "home_page_url": "https://dariusdotdk.github.io/blog",
     "feed_url": "https://dariusdotdk.github.io/blog/feed.json",
     "user_comment": "",
-    "icon": "https://dariusdotdk.github.io/blog/media/website/Screenshot-2024-02-09-021215.png",
     "author": {
         "name": "Darius Koupayeh"
     },
     "items": [
+        {
+            "id": "https://dariusdotdk.github.io/blog/jkhkjh.html",
+            "url": "https://dariusdotdk.github.io/blog/jkhkjh.html",
+            "title": "jkhkjh",
+            "summary": "jkhkjh",
+            "content_html": "<p>jkhkjh</p>",
+            "author": {
+                "name": "Darius Koupayeh"
+            },
+            "tags": [
+                   "Linguistics"
+            ],
+            "date_published": "2024-02-09T02:22:32+01:00",
+            "date_modified": "2024-02-09T02:22:32+01:00"
+        },
+        {
+            "id": "https://dariusdotdk.github.io/blog/jggj.html",
+            "url": "https://dariusdotdk.github.io/blog/jggj.html",
+            "title": "jggj",
+            "summary": "jkjkhk",
+            "content_html": "<p>jkjkhk</p>",
+            "author": {
+                "name": "Darius Koupayeh"
+            },
+            "tags": [
+                   "Philosophy"
+            ],
+            "date_published": "2024-02-09T02:22:18+01:00",
+            "date_modified": "2024-02-09T02:22:18+01:00"
+        },
         {
             "id": "https://dariusdotdk.github.io/blog/sdfsdf.html",
             "url": "https://dariusdotdk.github.io/blog/sdfsdf.html",
@@ -20,9 +49,10 @@
                 "name": "Darius Koupayeh"
             },
             "tags": [
+                   "History"
             ],
             "date_published": "2024-02-09T01:34:07+01:00",
-            "date_modified": "2024-02-09T01:34:07+01:00"
+            "date_modified": "2024-02-09T02:21:34+01:00"
         }
     ]
 }

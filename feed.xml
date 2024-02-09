@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
     <title>Darius Koupayeh</title>
-    <link href="https://dariusdotdk.github.io/blog/feed.xml" rel="self" />
-    <link href="https://dariusdotdk.github.io/blog" />
+    <link href="https://darius.dk/blog/feed.xml" rel="self" />
+    <link href="https://darius.dk/blog" />
     <updated>2024-02-09T02:22:32+01:00</updated>
     <author>
         <name>Darius Koupayeh</name>
     </author>
-    <id>https://dariusdotdk.github.io/blog</id>
+    <id>https://darius.dk/blog</id>
 
     <entry>
         <title>jkhkjh</title>
         <author>
             <name>Darius Koupayeh</name>
         </author>
-        <link href="https://dariusdotdk.github.io/blog/jkhkjh/"/>
-        <id>https://dariusdotdk.github.io/blog/jkhkjh/</id>
+        <link href="https://darius.dk/blog/jkhkjh/"/>
+        <id>https://darius.dk/blog/jkhkjh/</id>
             <category term="Linguistics"/>
 
         <updated>2024-02-09T02:22:32+01:00</updated>
@@ -35,8 +35,8 @@
         <author>
             <name>Darius Koupayeh</name>
         </author>
-        <link href="https://dariusdotdk.github.io/blog/jggj/"/>
-        <id>https://dariusdotdk.github.io/blog/jggj/</id>
+        <link href="https://darius.dk/blog/jggj/"/>
+        <id>https://darius.dk/blog/jggj/</id>
             <category term="Philosophy"/>
 
         <updated>2024-02-09T02:22:18+01:00</updated>
@@ -56,8 +56,8 @@
         <author>
             <name>Darius Koupayeh</name>
         </author>
-        <link href="https://dariusdotdk.github.io/blog/sdfsdf/"/>
-        <id>https://dariusdotdk.github.io/blog/sdfsdf/</id>
+        <link href="https://darius.dk/blog/sdfsdf/"/>
+        <id>https://darius.dk/blog/sdfsdf/</id>
             <category term="History"/>
 
         <updated>2024-02-09T02:21:34+01:00</updated>

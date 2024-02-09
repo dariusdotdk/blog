@@ -5,13 +5,14 @@
     "home_page_url": "https://dariusdotdk.github.io/blog",
     "feed_url": "https://dariusdotdk.github.io/blog/feed.json",
     "user_comment": "",
+    "icon": "https://dariusdotdk.github.io/blog/media/website/5beebc2351890-24f3a499d5b1478c02d5801a6a760758.png",
     "author": {
         "name": "Darius Koupayeh"
     },
     "items": [
         {
-            "id": "https://dariusdotdk.github.io/blog/jkhkjh.html",
-            "url": "https://dariusdotdk.github.io/blog/jkhkjh.html",
+            "id": "https://dariusdotdk.github.io/blog/jkhkjh/",
+            "url": "https://dariusdotdk.github.io/blog/jkhkjh/",
             "title": "jkhkjh",
             "summary": "jkhkjh",
             "content_html": "<p>jkhkjh</p>",
@@ -25,8 +26,8 @@
             "date_modified": "2024-02-09T02:22:32+01:00"
         },
         {
-            "id": "https://dariusdotdk.github.io/blog/jggj.html",
-            "url": "https://dariusdotdk.github.io/blog/jggj.html",
+            "id": "https://dariusdotdk.github.io/blog/jggj/",
+            "url": "https://dariusdotdk.github.io/blog/jggj/",
             "title": "jggj",
             "summary": "jkjkhk",
             "content_html": "<p>jkjkhk</p>",
@@ -40,8 +41,8 @@
             "date_modified": "2024-02-09T02:22:18+01:00"
         },
         {
-            "id": "https://dariusdotdk.github.io/blog/sdfsdf.html",
-            "url": "https://dariusdotdk.github.io/blog/sdfsdf.html",
+            "id": "https://dariusdotdk.github.io/blog/sdfsdf/",
+            "url": "https://dariusdotdk.github.io/blog/sdfsdf/",
             "title": "sdfsdf",
             "summary": "sfsdfsdf",
             "content_html": "<p>sfsdfsdf</p>",

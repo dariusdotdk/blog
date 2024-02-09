@@ -1,0 +1,27 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "darius.dk/blog",
+    "description": "",
+    "home_page_url": "https://dariusdotdk.github.io/blog",
+    "feed_url": "https://dariusdotdk.github.io/blog/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "Darius Koupayeh"
+    },
+    "items": [
+        {
+            "id": "https://dariusdotdk.github.io/blog/sdfsdf.html",
+            "url": "https://dariusdotdk.github.io/blog/sdfsdf.html",
+            "title": "sdfsdf",
+            "summary": "sfsdfsdf",
+            "content_html": "<p>sfsdfsdf</p>",
+            "author": {
+                "name": "Darius Koupayeh"
+            },
+            "tags": [
+            ],
+            "date_published": "2024-02-09T01:34:07+01:00",
+            "date_modified": "2024-02-09T01:34:07+01:00"
+        }
+    ]
+}

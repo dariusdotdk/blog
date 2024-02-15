@@ -3,54 +3,12 @@
     <title>Darius Koupayeh</title>
     <link href="https://darius.dk/blog/feed.xml" rel="self" />
     <link href="https://darius.dk/blog" />
-    <updated>2024-02-10T12:14:30+01:00</updated>
+    <updated>2024-02-09T09:40:21+01:00</updated>
     <author>
         <name>Darius Koupayeh</name>
     </author>
     <id>https://darius.dk/blog</id>
 
-    <entry>
-        <title>testtesttest</title>
-        <author>
-            <name>Darius Koupayeh</name>
-        </author>
-        <link href="https://darius.dk/blog/testtesttest/"/>
-        <id>https://darius.dk/blog/testtesttest/</id>
-            <category term="Networking"/>
-
-        <updated>2024-02-10T12:14:30+01:00</updated>
-            <summary>
-                <![CDATA[
-                    gdfgdf
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                <p>gdfgdf</p>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>test </title>
-        <author>
-            <name>Darius Koupayeh</name>
-        </author>
-        <link href="https://darius.dk/blog/test-2/"/>
-        <id>https://darius.dk/blog/test-2/</id>
-            <category term="Philosophy"/>
-
-        <updated>2024-02-09T13:23:56+01:00</updated>
-            <summary>
-                <![CDATA[
-                    testing
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                <p>testing</p>
-            ]]>
-        </content>
-    </entry>
     <entry>
         <title>test</title>
         <author>
@@ -69,69 +27,6 @@
         <content type="html">
             <![CDATA[
                 <p>test</p>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>jkhkjh</title>
-        <author>
-            <name>Darius Koupayeh</name>
-        </author>
-        <link href="https://darius.dk/blog/jkhkjh/"/>
-        <id>https://darius.dk/blog/jkhkjh/</id>
-            <category term="Linguistics"/>
-
-        <updated>2024-02-09T02:22:32+01:00</updated>
-            <summary>
-                <![CDATA[
-                    jkhkjh
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                <p>jkhkjh</p>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>jggj</title>
-        <author>
-            <name>Darius Koupayeh</name>
-        </author>
-        <link href="https://darius.dk/blog/jggj/"/>
-        <id>https://darius.dk/blog/jggj/</id>
-            <category term="Philosophy"/>
-
-        <updated>2024-02-09T02:22:18+01:00</updated>
-            <summary>
-                <![CDATA[
-                    jkjkhk
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                <p>jkjkhk</p>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>sdfsdf</title>
-        <author>
-            <name>Darius Koupayeh</name>
-        </author>
-        <link href="https://darius.dk/blog/sdfsdf/"/>
-        <id>https://darius.dk/blog/sdfsdf/</id>
-            <category term="History"/>
-
-        <updated>2024-02-09T02:21:34+01:00</updated>
-            <summary>
-                <![CDATA[
-                    sfsdfsdf
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                <p>sfsdfsdf</p>
             ]]>
         </content>
     </entry>
